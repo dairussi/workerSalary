@@ -1,0 +1,15 @@
+/home/daianarussi/Documentos/Course/bin/Debug/net6.0/Course
+/home/daianarussi/Documentos/Course/bin/Debug/net6.0/Course.deps.json
+/home/daianarussi/Documentos/Course/bin/Debug/net6.0/Course.runtimeconfig.json
+/home/daianarussi/Documentos/Course/bin/Debug/net6.0/Course.dll
+/home/daianarussi/Documentos/Course/bin/Debug/net6.0/ref/Course.dll
+/home/daianarussi/Documentos/Course/bin/Debug/net6.0/Course.pdb
+/home/daianarussi/Documentos/Course/obj/Debug/net6.0/Course.csproj.AssemblyReference.cache
+/home/daianarussi/Documentos/Course/obj/Debug/net6.0/Course.GeneratedMSBuildEditorConfig.editorconfig
+/home/daianarussi/Documentos/Course/obj/Debug/net6.0/Course.AssemblyInfoInputs.cache
+/home/daianarussi/Documentos/Course/obj/Debug/net6.0/Course.AssemblyInfo.cs
+/home/daianarussi/Documentos/Course/obj/Debug/net6.0/Course.csproj.CoreCompileInputs.cache
+/home/daianarussi/Documentos/Course/obj/Debug/net6.0/Course.dll
+/home/daianarussi/Documentos/Course/obj/Debug/net6.0/ref/Course.dll
+/home/daianarussi/Documentos/Course/obj/Debug/net6.0/Course.pdb
+/home/daianarussi/Documentos/Course/obj/Debug/net6.0/Course.genruntimeconfig.cache
